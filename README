@@ -1,0 +1,7 @@
+Just do: 
+python3 new_grad.py  
+
+to generate a text file of google searches of common companies for new grads. Then run 
+python3 grab_one.py
+
+to run a loop to search the next company. Saves time!
